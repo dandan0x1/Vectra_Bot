@@ -1,7 +1,8 @@
 # Vectra_Bot
 注册：https://www.vectramarkets.xyz?startparam=gdq1vx8nj8tl9470fncwnu0n
 
-##脚本功能：
+## 脚本功能：
+
 1、参与热门挑战
 
 2、每日签到
